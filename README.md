@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Tickets and ticket lifecycles.</h1>
 This tutorial outlines potential SEV-A, SEV-B, and SEV-C ticket lifecycles and scenarios.<br />
 
 
