@@ -8,7 +8,7 @@ This tutorial outlines potential SEV-A, SEV-B, and SEV-C ticket lifecycles and s
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: Tickets and Ticket Lifecycles](https://www.youtube.com/watch?v=qbxlwP0RQwY)
 
 <h2>Environments and Technologies Used</h2>
 
